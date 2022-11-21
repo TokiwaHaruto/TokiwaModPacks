@@ -1,0 +1,90 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "1044298618921816094",
+    "smallImageText": "TokiwaLauncher",
+    "smallImageKey": "https://i.imgur.com/LoOZOnZ.png"
+  },
+  "servers": [
+    {
+      "id": "黄昏クラフト-1.19.2",
+      "name": "黄昏クラフト (Minecraft 1.19.2)",
+      "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.53)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.19.2",
+      "discord": {
+        "shortId": "Minecraft",
+        "largeImageText": "https://i.imgur.com/yhJSLtf.png",
+        "largeImageKey": "黄昏クラフト (Minecraft 1.19.2)"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.19.2-43.1.53:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 6880667,
+            "MD5": "1229121d9f0b8e6d924ed1894406ae01",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.53/forge-1.19.2-43.1.53-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "mezz.jei:jei:11.4.0.286@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1046401,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/jei-1.19.2-forge-11.4.0.286.jar",
+            "MD5": "0d458f02d611eafbf29ae36010d03130"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.9.0beta3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6982746,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/journeymap-1.19.2-5.9.0beta3-forge.jar",
+            "MD5": "3087701b6adc50084f7c32e93e8d227e"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.19.2-3.18.29.719@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 732229,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/sophisticatedbackpacks-1.19.2-3.18.29.719.jar",
+            "MD5": "b735611049be65e6a57a2bf5a17a993c"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.19.2-0.5.15.142@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 913017,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/sophisticatedcore-1.19.2-0.5.15.142.jar",
+            "MD5": "3aa2c6b30339f71b848a4ab870aad73f"
+          }
+        },
+        {
+          "id": "twilightforest:twilightforest:4.2.1468@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23563663,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/twilightforest-1.19.2-4.2.1468-universal.jar",
+            "MD5": "700f91192563c88ac43843de471fee5f"
+          }
+        }
+      ]
+    }
+  ]
+}

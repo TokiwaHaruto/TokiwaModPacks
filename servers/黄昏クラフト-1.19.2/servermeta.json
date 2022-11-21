@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/%E4%BB%95%E4%BA%8B/%E5%89%AF%E6%A5%AD/TokiwaModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "黄昏クラフト (Minecraft 1.19.2)",
+    "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.53)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "https://i.imgur.com/yhJSLtf.png",
+      "largeImageKey": "黄昏クラフト (Minecraft 1.19.2)"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "43.1.53"
+  },
+  "untrackedFiles": []
+}

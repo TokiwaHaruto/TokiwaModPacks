@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/%E4%BB%95%E4%BA%8B/%E5%89%AF%E6%A5%AD/TokiwaModPacks/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1044298618921816094",
+      "smallImageText": "TokiwaLauncher",
+      "smallImageKey": "https://i.imgur.com/LoOZOnZ.png"
+    }
+  }
+}
