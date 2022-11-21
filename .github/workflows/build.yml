@@ -48,7 +48,6 @@ jobs:
       - name: Setup Nebula
         run: |
           npm i
-          npm build ./
           npm run build
 
       - name: Generate Distribution
