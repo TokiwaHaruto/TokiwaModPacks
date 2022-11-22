@@ -8,6 +8,35 @@
   },
   "servers": [
     {
+      "id": "Vanilla-1.16.5",
+      "name": "Vanilla (Minecraft 1.16.5)",
+      "description": "Vanilla Running Minecraft 1.16.5 (Forge v36.2.20)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 7390346,
+            "MD5": "6298276cc9396bb1b2d8526b1ee0e8c5",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar"
+          },
+          "subModules": []
+        }
+      ]
+    },
+    {
       "id": "Vanilla-1.19.2",
       "name": "Vanilla (Minecraft 1.19.2)",
       "description": "Vanilla Running Minecraft 1.19.2 (Forge v43.1.23)",
