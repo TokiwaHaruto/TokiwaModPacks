@@ -79,6 +79,35 @@
       ]
     },
     {
+      "id": "test-1.19.2",
+      "name": "test (Minecraft 1.19.2)",
+      "description": "test Running Minecraft 1.19.2 (Forge v43.0.0)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.19.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.19.2-43.0.0:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 6785064,
+            "MD5": "8db33a6000bfea360c7a7800559fc50f",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.0.0/forge-1.19.2-43.0.0-installer.jar"
+          },
+          "subModules": []
+        }
+      ]
+    },
+    {
       "id": "黄昏クラフト-1.19.2",
       "name": "黄昏クラフト (Minecraft 1.19.2)",
       "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.23)",
