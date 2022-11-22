@@ -8,29 +8,68 @@
   },
   "servers": [
     {
-      "id": "黄昏クラフト-1.19.2",
-      "name": "黄昏クラフト (Minecraft 1.19.2)",
-      "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.53)",
+      "id": "Optifine-1.19.2",
+      "name": "Optifine (Minecraft 1.19.2)",
+      "description": "Optifine Running Minecraft 1.19.2 (Forge v43.1.7)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "Minecraft",
-        "largeImageText": "https://i.imgur.com/yhJSLtf.png",
-        "largeImageKey": "黄昏クラフト (Minecraft 1.19.2)"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.19.2-43.1.53:installer",
+          "id": "net.minecraftforge:forge:1.19.2-43.1.7:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 6880667,
-            "MD5": "1229121d9f0b8e6d924ed1894406ae01",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.53/forge-1.19.2-43.1.53-installer.jar"
+            "size": 6879381,
+            "MD5": "b7d7be9e0c560fdd82e2ec70824be1a4",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.7/forge-1.19.2-43.1.7-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "net.optifine:optifine:1.19.2_HD_U_H9@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6863178,
+            "url": "http://localhost:8080/servers/Optifine-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_H9.jar",
+            "MD5": "e7c4c8af14d48f4149ff2ed442eed05c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "黄昏クラフト-1.19.2",
+      "name": "黄昏クラフト (Minecraft 1.19.2)",
+      "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.7)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.19.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.19.2-43.1.7:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 6879381,
+            "MD5": "b7d7be9e0c560fdd82e2ec70824be1a4",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.7/forge-1.19.2-43.1.7-installer.jar"
           },
           "subModules": []
         },
@@ -52,6 +91,19 @@
             "size": 6982746,
             "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/required/journeymap-1.19.2-5.9.0beta3-forge.jar",
             "MD5": "3087701b6adc50084f7c32e93e8d227e"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.19.2_HD_U_H9@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6863178,
+            "url": "http://localhost:8080/servers/%E9%BB%84%E6%98%8F%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_H9.jar",
+            "MD5": "e7c4c8af14d48f4149ff2ed442eed05c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
