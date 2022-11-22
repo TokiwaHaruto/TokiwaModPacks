@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Optifine-1.19.2",
-      "name": "Optifine (Minecraft 1.19.2)",
-      "description": "Optifine Running Minecraft 1.19.2 (Forge v43.1.7)",
+      "id": "Vanilla-1.19.2",
+      "name": "Vanilla (Minecraft 1.19.2)",
+      "description": "Vanilla Running Minecraft 1.19.2 (Forge v43.1.23)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -24,13 +24,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.19.2-43.1.7:installer",
+          "id": "net.minecraftforge:forge:1.19.2-43.1.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 6879381,
-            "MD5": "b7d7be9e0c560fdd82e2ec70824be1a4",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.7/forge-1.19.2-43.1.7-installer.jar"
+            "size": 6890729,
+            "MD5": "ee87d0fecb8b510d9ceb1b5b1d542756",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.23/forge-1.19.2-43.1.23-installer.jar"
           },
           "subModules": []
         },
@@ -40,8 +40,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6863178,
-            "url": "http://localhost:8080/servers/Optifine-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_H9.jar",
+            "url": "http://localhost:8080/servers/Vanilla-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_H9.jar",
             "MD5": "e7c4c8af14d48f4149ff2ed442eed05c"
+          },
+          "required": {
+            "value": false
           }
         }
       ]
@@ -49,7 +52,7 @@
     {
       "id": "黄昏クラフト-1.19.2",
       "name": "黄昏クラフト (Minecraft 1.19.2)",
-      "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.7)",
+      "description": "黄昏クラフト Running Minecraft 1.19.2 (Forge v43.1.23)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -63,13 +66,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.19.2-43.1.7:installer",
+          "id": "net.minecraftforge:forge:1.19.2-43.1.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 6879381,
-            "MD5": "b7d7be9e0c560fdd82e2ec70824be1a4",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.7/forge-1.19.2-43.1.7-installer.jar"
+            "size": 6890729,
+            "MD5": "ee87d0fecb8b510d9ceb1b5b1d542756",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.19.2-43.1.23/forge-1.19.2-43.1.23-installer.jar"
           },
           "subModules": []
         },
