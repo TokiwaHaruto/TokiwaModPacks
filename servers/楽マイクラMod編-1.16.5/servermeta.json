@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/Works/Sub/TokiwaModPacks/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/ghq/github.com/TokiwaHaruto/TokiwaModPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "楽マイクラMod編 (Minecraft 1.16.5)",
