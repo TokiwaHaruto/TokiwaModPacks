@@ -30,7 +30,7 @@
           "artifact": {
             "size": 7960328,
             "MD5": "724d9c364482cb8151afd43044f305de",
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
           },
           "subModules": []
         },
