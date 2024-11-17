@@ -35,13 +35,36 @@
           "subModules": []
         },
         {
-          "id": "twilightforest:twilightforest:1.16.5-4.0.870-universal@jar",
+          "id": "twilightforest:twilightforest:3.11.1021@jar",
           "name": "The Twilight Forest",
           "type": "ForgeMod",
           "artifact": {
-            "size": 31748538,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/%E6%A5%BD%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9Mod%E7%B7%A8-1.16.5/forgemods/required/twilightforest-1.16.5-4.0.870-universal.jar",
-            "MD5": "bc9f7d1c53369268094e970edd26a43c"
+            "size": 28721862,
+            "MD5": "0933760943721154f3208782306f04d6",
+            "url": "",
+            "manual": {
+              "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/3051450",
+              "name": "twilightforest-1.12.2-3.11.1021-universal.jar",
+              "hints": [
+                {
+                  "css": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.16.5-2.3.27@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7841613,
+            "MD5": "2e3a134a9e436a35a77f56da4bb7a715",
+            "url": "",
+            "manual": {
+              "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/4332093",
+              "name": "voicechat-forge-1.16.5-2.3.27.jar"
+            }
           }
         }
       ]
