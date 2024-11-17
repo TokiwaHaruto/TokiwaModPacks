@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "楽マイクラMod編-1.16.5",
-      "name": "楽マイクラMod編 (Minecraft 1.16.5)",
-      "description": "楽マイクラMod編 Running Minecraft 1.16.5 (Forge v36.2.34)",
+      "id": "Test-1.20.1",
+      "name": "Test (Minecraft 1.20.1)",
+      "description": "Test Running Minecraft 1.20.1 (Forge v47.2.19)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
-      "minecraftVersion": "1.16.5",
+      "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -24,47 +24,24 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.34:installer",
+          "id": "net.minecraftforge:forge:1.20.1-47.2.19:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7960328,
-            "MD5": "724d9c364482cb8151afd43044f305de",
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
+            "size": 5974639,
+            "MD5": "08c74c1b4a6e49c006864e87c4ae0402",
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.20.1-47.2.19/forge-1.20.1-47.2.19-installer.jar"
           },
           "subModules": []
         },
         {
-          "id": "twilightforest:twilightforest:3.11.1021@jar",
-          "name": "The Twilight Forest",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28721862,
-            "MD5": "0933760943721154f3208782306f04d6",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/3051450",
-              "name": "twilightforest-1.12.2-3.11.1021-universal.jar",
-              "hints": [
-                {
-                  "css": ""
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.16.5-2.3.27@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7841613,
-            "MD5": "2e3a134a9e436a35a77f56da4bb7a715",
-            "url": "",
-            "manual": {
-              "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/4332093",
-              "name": "voicechat-forge-1.16.5-2.3.27.jar"
-            }
+            "size": 7729085,
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/Test-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
+            "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
           }
         }
       ]
