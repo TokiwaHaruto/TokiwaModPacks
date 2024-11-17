@@ -16,9 +16,9 @@
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "Minecraft",
-        "largeImageText": "楽マイクラMod編",
-        "largeImageKey": "https://i.imgur.com/yhJSLtf.png"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 7960328,
             "MD5": "724d9c364482cb8151afd43044f305de",
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
           },
           "subModules": []
         },
@@ -40,7 +40,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31748538,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/servers/%E6%A5%BD%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9Mod%E7%B7%A8-1.16.5/forgemods/required/twilightforest-1.16.5-4.0.870-universal.jar",
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/%E6%A5%BD%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9Mod%E7%B7%A8-1.16.5/forgemods/required/twilightforest-1.16.5-4.0.870-universal.jar",
             "MD5": "bc9f7d1c53369268094e970edd26a43c"
           }
         }
