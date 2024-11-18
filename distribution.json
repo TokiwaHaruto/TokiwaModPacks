@@ -30,7 +30,7 @@
           "artifact": {
             "size": 5974639,
             "MD5": "08c74c1b4a6e49c006864e87c4ae0402",
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/repo/lib/net/minecraftforge/forge/1.20.1-47.2.19/forge-1.20.1-47.2.19-installer.jar"
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.20.1-47.2.19/forge-1.20.1-47.2.19-installer.jar"
           },
           "subModules": []
         },
@@ -40,7 +40,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23332091,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/Test-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/Test-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
           }
         },
@@ -50,7 +50,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7729085,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/Test-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/Test-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
             "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
           }
         }
