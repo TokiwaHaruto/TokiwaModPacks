@@ -45,16 +45,6 @@
           }
         },
         {
-          "id": "com.cinemamod:mcef:2.1.4-1.20.1@jar",
-          "name": "MCEF (Minecraft Chromium Embedded Framework)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 215532,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/%E5%B8%B8%E7%A3%90%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/mcef-forge-2.1.4-1.20.1.jar",
-            "MD5": "0344b6abd3bf1bdd5a7da819a3152354"
-          }
-        },
-        {
           "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
@@ -82,16 +72,6 @@
             "size": 7707727,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/%E5%B8%B8%E7%A3%90%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.17.jar",
             "MD5": "215aa011aca6f62c7c284e3ff6d04366"
-          }
-        },
-        {
-          "id": "net.montoyo.wd:webdisplays:2.0.1-1.20.1@jar",
-          "name": "WebDisplays",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 811968,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/%E5%B8%B8%E7%A3%90%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/webdisplays-2.0.2-1.20.1.jar",
-            "MD5": "e10830a26736c48d5726755a81f20429"
           }
         }
       ]
