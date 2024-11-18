@@ -35,6 +35,16 @@
           "subModules": []
         },
         {
+          "id": "twilightforest:twilightforest:4.3.2508@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23332091,
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/deploy/servers/Test-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
