@@ -35,23 +35,17 @@
           "subModules": []
         },
         {
-          "id": "twilightforest:twilightforest:4.3.2508@jar",
-          "name": "The Twilight Forest",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 23332091,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/Test-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
-            "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.17@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7729085,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/Test-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
-            "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
+            "size": 7707727,
+            "MD5": "215aa011aca6f62c7c284e3ff6d04366",
+            "url": "",
+            "manual": {
+              "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/5438656",
+              "name": "voicechat-forge-1.20.1-2.5.17.jar"
+            }
           }
         }
       ]
