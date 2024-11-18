@@ -35,16 +35,6 @@
           "subModules": []
         },
         {
-          "id": "com.simibubi:create:0.5.1.j@jar",
-          "name": "Create",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15583566,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/%E5%B8%B8%E7%A3%90%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/create-1.20.1-0.5.1.j.jar",
-            "MD5": "db945b2441efa1a136d3f86126a6f813"
-          }
-        },
-        {
           "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
