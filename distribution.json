@@ -75,16 +75,6 @@
           }
         },
         {
-          "id": "twilightforest:twilightforest:1.12.2-3.11.1021-universal@jar",
-          "name": "Twilightforest",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28721862,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/%E5%B8%B8%E7%A3%90%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/twilightforest-1.12.2-3.11.1021-universal.jar",
-            "MD5": "0933760943721154f3208782306f04d6"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.17@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
