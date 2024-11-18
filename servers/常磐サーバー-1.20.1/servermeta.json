@@ -2,7 +2,7 @@
   "$schema": "file:///C:/ghq/github.com/TokiwaHaruto/TokiwaModPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "TokiwaServer",
+    "name": "常磐サーバー",
     "description": "Minecraft 1.20.1 (Forge v47.2.19)",
     "address": "localhost:25565",
     "discord": {
