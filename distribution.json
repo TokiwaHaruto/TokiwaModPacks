@@ -24,13 +24,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.20.1-47.2.19:installer",
+          "id": "net.minecraftforge:forge:1.20.1-47.3.11:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 5974639,
-            "MD5": "08c74c1b4a6e49c006864e87c4ae0402",
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.20.1-47.2.19/forge-1.20.1-47.2.19-installer.jar"
+            "size": 6022175,
+            "MD5": "837ae0d196a223f3bdd445b55530354e",
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/repo/lib/net/minecraftforge/forge/1.20.1-47.3.11/forge-1.20.1-47.3.11-installer.jar"
           },
           "subModules": []
         },
@@ -55,13 +55,13 @@
           }
         },
         {
-          "id": "twilightforest:twilightforest:1.12.2-3.11.1021-universal@jar",
-          "name": "Twilightforest",
+          "id": "twilightforest:twilightforest:4.3.2508@jar",
+          "name": "The Twilight Forest",
           "type": "ForgeMod",
           "artifact": {
-            "size": 28721862,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/twilightforest-1.12.2-3.11.1021-universal.jar",
-            "MD5": "0933760943721154f3208782306f04d6"
+            "size": 23332091,
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
           }
         },
         {
