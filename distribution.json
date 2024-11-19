@@ -465,26 +465,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
-          }
-        },
-        {
-          "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
-          "name": "Connector Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 182464,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
-            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
-          }
-        },
-        {
           "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
           "name": "Construction Wand",
           "type": "ForgeMod",
