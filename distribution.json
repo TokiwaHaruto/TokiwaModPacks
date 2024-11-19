@@ -75,6 +75,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.3+mc1.20.1-build.121@jar",
+          "name": "Embeddium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544113,
+            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+            "MD5": "f61cc3ea7c32ce7839467caf0ac0f113"
+          }
+        },
+        {
           "id": "twilightforest:twilightforest:4.3.2508@jar",
           "name": "The Twilight Forest",
           "type": "ForgeMod",
