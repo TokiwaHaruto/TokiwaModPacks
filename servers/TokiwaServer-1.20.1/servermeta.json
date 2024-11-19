@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "常磐サーバー",
-    "description": "Minecraft 1.20.1 (Forge v47.2.19)",
+    "description": "Minecraft 1.20.1 (Forge v47.3.11)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "Minecraft",
