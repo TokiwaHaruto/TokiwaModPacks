@@ -1405,16 +1405,6 @@
           }
         },
         {
-          "id": "net.mcreator.moadecorelectronics:moa_decor_electronics:1.20.1.@jar",
-          "name": "MOA: ELECTRONICS",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1140709,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MOAdecor%20ELECTRONICS%201.20.1.jar",
-            "MD5": "a8a4df049f11d065782780761d1cc627"
-          }
-        },
-        {
           "id": "net.mcreator.moadecorscience:moa_decor_science:1.20.1@jar",
           "name": "MOA DECOR: SCIENCE",
           "type": "ForgeMod",
