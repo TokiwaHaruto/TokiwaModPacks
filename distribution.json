@@ -55,126 +55,6 @@
           }
         },
         {
-          "id": "de.markusbordihn.adaptiveperformancetweakscore:adaptive_performance_tweaks_core:11.3.0@jar",
-          "name": "APTweaks: Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 109763,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/adaptive_performance_tweaks_core_1.20.1-11.3.0.jar.disabled",
-            "MD5": "3c2408998ff6dc76e1e9661919c5ae80"
-          }
-        },
-        {
-          "id": "de.markusbordihn.adaptiveperformancetweaksplayer:adaptive_performance_tweaks_player:11.3.0@jar",
-          "name": "APTweaks: Player",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 66272,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/adaptive_performance_tweaks_player_1.20.1-11.3.0.jar.disabled",
-            "MD5": "1281f4addece14a80bf8e9128740fdbf"
-          }
-        },
-        {
-          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
-          "name": "AI-Improvements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29553,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
-            "MD5": "9a6776ce2deab597d198e8755daa56ff"
-          }
-        },
-        {
-          "id": "com.github.alexthe666:alexsmobs:1.22.8@jar",
-          "name": "Alex's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26055355,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/alexsmobs-1.22.8.jar",
-            "MD5": "0ad246393c7f9849df1e3e0af7f28872"
-          }
-        },
-        {
-          "id": "generated.forgemod:alloy:forgery-2.1.2+1.20@jar",
-          "name": "Alloy",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 256944,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/alloy-forgery-2.1.2+1.20.jar",
-            "MD5": "45efb161d10bf008eeacb16cd5d6469d"
-          }
-        },
-        {
-          "id": "com.suppergerrie2.alwayseat.alwayseat:salwayseat:5.2@jar",
-          "name": "AlwaysEat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11372,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/AlwaysEat-5.2.jar",
-            "MD5": "f873a31bb8eb670836a7613bd385fef5"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:amendments:1.20-1.2.12@jar",
-          "name": "Amendments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 995893,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/amendments-1.20-1.2.12.jar",
-            "MD5": "164d0d403dfb18d1ba6a0d16dbb5505d"
-          }
-        },
-        {
-          "id": "dev.shadowsoffire:apotheosis:7.4.3@jar",
-          "name": "Apotheosis",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2672640,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Apotheosis-1.20.1-7.4.3.jar",
-            "MD5": "8efe37aa5bc3b1634405e41359483756"
-          }
-        },
-        {
-          "id": "dev.shadowsoffire:attributeslib:1.3.7@jar",
-          "name": "Apothic Attributes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 227511,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
-            "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
-          }
-        },
-        {
-          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
-          "name": "AppleSkin",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47428,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
-            "MD5": "dae63cea9c951dda542a4005ceef3953"
-          }
-        },
-        {
-          "id": "net.mcreator:aquaculturedelight:1.0.0@jar",
-          "name": "Aquaculture Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 101228,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/aquaculture_delight_1.0.0_forge_1.20.1.jar",
-            "MD5": "d34013de56ec48d2923bb398b6d18e11"
-          }
-        },
-        {
-          "id": "com.teammetallurgy:aquaculture:2.5.2@jar",
-          "name": "Aquaculture 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 601194,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.2.jar",
-            "MD5": "857dc4f379d52f75fab2ad816709e502"
-          }
-        },
-        {
           "id": "dev.architectury:architectury:9.2.14@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -192,36 +72,6 @@
             "size": 19471,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
-          }
-        },
-        {
-          "id": "jackiecrazy.attributizer:attributizer:2.1@jar",
-          "name": "Attributizer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 55385,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/attributizer-2.1.jar",
-            "MD5": "203008a0fe55d10f130c548f56315e1d"
-          }
-        },
-        {
-          "id": "io.github.foundationgames:automobility:0.4.2+1.20.1-forge@jar",
-          "name": "Automobility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1054094,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/automobility-0.4.2+1.20.1-forge.jar",
-            "MD5": "fb16b053cc0eda55bb287c1aa926dcb5"
-          }
-        },
-        {
-          "id": "mod.azure:azurelib:2.0.39@jar",
-          "name": "AzureLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 752369,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.39.jar",
-            "MD5": "6fefc058f287755d44d657fdacb2347c"
           }
         },
         {
@@ -255,56 +105,6 @@
           }
         },
         {
-          "id": "com.vice:balancedflight:1.20.1_v2.3.0@jar",
-          "name": "Create: Balanced Flight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 116783,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/balancedflight-1.20.1_v2.3.0.jar",
-            "MD5": "da7db13eeffc8abc70e156947268aafa"
-          }
-        },
-        {
-          "id": "com.github.pandarix:beautify:2.0.2@jar",
-          "name": "Beautify",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 838292,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/beautify-2.0.2.jar",
-            "MD5": "c04d94abedfec613a2f93fbbf394455e"
-          }
-        },
-        {
-          "id": "systems.alexander:bellsandwhistles:0.4.3-1.20.x@jar",
-          "name": "Create: Bells & Whistles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 196447,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/bellsandwhistles-0.4.3-1.20.x.jar",
-            "MD5": "35a1d71ef77ad3e4b36b323d45214e38"
-          }
-        },
-        {
-          "id": "net.pandarix:betterarcheology:1.2.1-1.20.1@jar",
-          "name": "Better Archeology",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 982838,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/betterarcheology-1.2.1-1.20.1.jar",
-            "MD5": "44d12515764cd4202481b73b82626aae"
-          }
-        },
-        {
-          "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
-          "name": "Better Combat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1050118,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/bettercombat-forge-1.8.6+1.20.1.jar",
-            "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
-          }
-        },
-        {
           "id": "me.treyruffy:betterf3:7.0.2@jar",
           "name": "BetterF3",
           "type": "ForgeMod",
@@ -315,86 +115,6 @@
           }
         },
         {
-          "id": "net.darkhax:bookshelf:20.2.13@jar",
-          "name": "Bookshelf",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 343962,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
-            "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
-          }
-        },
-        {
-          "id": "net.darkhax:botanypots:13.0.39@jar",
-          "name": "BotanyPots",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1057001,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/BotanyPots-Forge-1.20.1-13.0.39.jar",
-            "MD5": "506bad9656ed715d1d1350e525b08ccb"
-          }
-        },
-        {
-          "id": "net.darkhax:botanytrees:9.0.17@jar",
-          "name": "BotanyTrees",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 246463,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/BotanyTrees-Forge-1.20.1-9.0.17.jar",
-            "MD5": "d0441feade51434da4851009d52365e4"
-          }
-        },
-        {
-          "id": "com.va11halla:casualness_delight:1.20.1-0.4n@jar",
-          "name": "Casualness Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 233593,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/casualness_delight-1.20.1-0.4n.jar",
-            "MD5": "ac3848ccc70360f72d00035b266efd10"
-          }
-        },
-        {
-          "id": "net.mcreator.cataclysmut:cataclysm_ut:1.9.0@jar",
-          "name": "Cataclysm Apotheosis",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28589,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cataclysm_ut-27%20-%201.20.1.jar",
-            "MD5": "1137cf857b89fa4b321ee677c5e6a6c5"
-          }
-        },
-        {
-          "id": "generated.forgemod:cataclysmiccombat:1.3.5@jar",
-          "name": "Cataclysmic Combat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7434,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cataclysmiccombat-1.3.5.jar",
-            "MD5": "aaea454dae2b034c06989de843f8c369"
-          }
-        },
-        {
-          "id": "dzwdz.chat_heads:chat_heads:0.13.4@jar",
-          "name": "Chat Heads",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 260957,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/chat_heads-0.13.4-forge-1.20.jar",
-            "MD5": "0ddcd3b4a0e5ee3b780d0b522b3489cd"
-          }
-        },
-        {
-          "id": "com.github.alexthe666:citadel:2.6.0@jar",
-          "name": "Citadel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3173174,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/citadel-2.6.0-1.20.1.jar",
-            "MD5": "86b18b35ee8f10b1f45bda02345792cd"
-          }
-        },
-        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -402,126 +122,6 @@
             "size": 1181413,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-          }
-        },
-        {
-          "id": "com.blamejared:clumps:12.0.0.4@jar",
-          "name": "Clumps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20299,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
-            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
-          }
-        },
-        {
-          "id": "net.minecraftforge.lex.cfd:cobblefordays:1.8.0@jar",
-          "name": "Cobble For Days",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 43309,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/CobbleForDays-1.8.0.jar",
-            "MD5": "b081076d402e4ddbf571b1da9668fa12"
-          }
-        },
-        {
-          "id": "net.mcreator:coffeecraft:1.0.0@jar",
-          "name": "CoffeeCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2005305,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/coffeecraft-1.20.1-1.0.2.jar",
-            "MD5": "666460150fcb2da4e19e26b1bac9fedf"
-          }
-        },
-        {
-          "id": "cofh.core:cofh_core:11.0.2@jar",
-          "name": "CoFH Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1509649,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
-            "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
-          }
-        },
-        {
-          "id": "com.natamus:collective:7.87@jar",
-          "name": "Collective",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 648876,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/collective-1.20.1-7.87.jar",
-            "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
-          }
-        },
-        {
-          "id": "com.supermartijn642:connectedglass:1.1.12@jar",
-          "name": "Connected Glass",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 873347,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/connectedglass-1.1.12-forge-mc1.20.1.jar",
-            "MD5": "606425bc344344d800ca0a37ba4b29c3"
-          }
-        },
-        {
-          "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
-          "name": "Construction Wand",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 210312,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
-            "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
-          }
-        },
-        {
-          "id": "com.copycatsplus:copycats:2.1.4+mc.1.20.1-forge@jar",
-          "name": "Create: Copycats+",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1747441,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/copycats-2.1.4+mc.1.20.1-forge.jar",
-            "MD5": "e4c60c4625db2de2b93f460506e986f7"
-          }
-        },
-        {
-          "id": "cn.mcmod:corn_delight:1.1.6-1.20.1@jar",
-          "name": "Corn Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 164044,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/corn_delight-1.1.6-1.20.1.jar",
-            "MD5": "0e9a550246c0a6f2da5141353bebdc5b"
-          }
-        },
-        {
-          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
-          "name": "CoroUtil",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 64187,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
-            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
-          }
-        },
-        {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.17@jar",
-          "name": "Corpse",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 244310,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.17.jar",
-            "MD5": "46779c77c83adf305237e489d46e566f"
-          }
-        },
-        {
-          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
-          "name": "CosmeticArmorReworked",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 88752,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
-            "MD5": "2454075e9a25cbadc0fce66502e3261d"
           }
         },
         {
@@ -565,36 +165,6 @@
           }
         },
         {
-          "id": "com.github.talrey:createdeco:2.0.2-1.20.1-forge@jar",
-          "name": "Create Deco",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3966138,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
-            "MD5": "9c86ef2ebb60aa617ac92c3ae1d3c545"
-          }
-        },
-        {
-          "id": "com.ncpbails:culturaldelights:0.16.1@jar",
-          "name": "Cultural Delights",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 242274,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/culturaldelights-0.16.1.jar",
-            "MD5": "2f231f3c930cabd419fedcf23caab8ca"
-          }
-        },
-        {
-          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
-          "name": "Cupboard utilities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25983,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
-            "MD5": "3620912474f47bf58d1fe5bfe133763a"
-          }
-        },
-        {
           "id": "top.theillusivec4:curios:5.11.0+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -602,166 +172,6 @@
             "size": 389988,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/curios-forge-5.11.0+1.20.1.jar",
             "MD5": "9d752b17b0e6d1e9cfe3ea3a230aaba1"
-          }
-        },
-        {
-          "id": "net.mcreator.decentbiomes:decent_biomes:1.0.0@jar",
-          "name": "Decent Biomes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11174999,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/decentbiomes%201.20.1%20forge.jar",
-            "MD5": "79e059730cb32682ca9a10b6b6301c4d"
-          }
-        },
-        {
-          "id": "com.dragn0007:deepblue:1.2@jar",
-          "name": "DragN's Aquatics: Deep Blue Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 384948,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Deep-Blue-Addon-1.20.1-1.2.jar",
-            "MD5": "475e9674dcd049c54f4444200fcbd398"
-          }
-        },
-        {
-          "id": "net.brnbrd:delightful:3.6@jar",
-          "name": "Delightful",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1040909,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Delightful-1.20.1-3.6.jar",
-            "MD5": "7e61f1c6d1cef0e012ef5ed071f17406"
-          }
-        },
-        {
-          "id": "net.luhcarti:delightfulburgers:1.20.1@jar",
-          "name": "Delightful Burgers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15907,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/delightfulburgers-1.20.1.jar",
-            "MD5": "01a03d11fbefe53edae8c05eb932c596"
-          }
-        },
-        {
-          "id": "net.luhcarti:delightfulsandwich:1.20.1@jar",
-          "name": "Delightful Sandwiches",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19574,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/delightfulsandwich-1.20.1.jar",
-            "MD5": "495df9dca671c245e8046d7c30f49461"
-          }
-        },
-        {
-          "id": "com.chirptheboy:disenchanting:2.2.3@jar",
-          "name": "Disenchanting",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 81717,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Disenchanting-forge-1.20.1-2.2.4.jar",
-            "MD5": "ce32b95b6044cfcade5fc8bae1dd985f"
-          }
-        },
-        {
-          "id": "chappie.displaycase:display_case:1.0.8@jar",
-          "name": "Display Case Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 51697,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Display%20Case-forge-1.20-1.0.8.jar",
-            "MD5": "68c1d78eb63e3b9204f15cf7ef53191e"
-          }
-        },
-        {
-          "id": "com.github.alexthe668:domesticationinnovation:1.7.1@jar",
-          "name": "Domestication Innovation",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 853614,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/domesticationinnovation-1.7.1-1.20.1.jar",
-            "MD5": "5382cff8a496f17791a0b0ad50596e8a"
-          }
-        },
-        {
-          "id": "com.ldtteam.domumornamentum:domum_ornamentum:1.20.1-1.0.186-RELEASE@jar",
-          "name": "Domum Ornamentum",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1099334,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar",
-            "MD5": "0e7bf5e2a1b9b449885e8a2f40910789"
-          }
-        },
-        {
-          "id": "com.dragn:bettas:1.2.3@jar",
-          "name": "DragN's Bettas",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 857155,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/DragN_Bettas-1.20.1-1.2.3.jar",
-            "MD5": "91beaa2b0dd5ae1d28f14096ad3ffca4"
-          }
-        },
-        {
-          "id": "lekavar.lma:drinkbeer:1.0.5@jar",
-          "name": "Drink Beer Refill",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1520963,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/drinkbeer-refill-1.20.1-1.0.5.jar",
-            "MD5": "700a9178b07fc018fe3d60b20259f57e"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.2@jar",
-          "name": "MmmMmmMmmmmm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 360106,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.2.jar",
-            "MD5": "5ed70d08eae8d82ea46de8384c48d170"
-          }
-        },
-        {
-          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.7.4@jar",
-          "name": "Dynamic FPS",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 339664,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/dynamic-fps-3.7.4+minecraft-1.20.0-forge.jar",
-            "MD5": "d4c5154d52801b718c9be3cb991d9405"
-          }
-        },
-        {
-          "id": "de.markusbordihn.easymobfarm:easy_mob_farm:7.1.0@jar",
-          "name": "Easy Mob Farm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 951653,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/easy_mob_farm_1.20.1-7.1.0.jar",
-            "MD5": "14c458191fc35cc75b56488a051ef924"
-          }
-        },
-        {
-          "id": "de.maxhenkel.easyvillagers:easy_villagers:1.20.1-1.1.23@jar",
-          "name": "Easy Villagers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 411343,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/easy-villagers-forge-1.20.1-1.1.23.jar",
-            "MD5": "3d771d855f6095c8128d602e067bf0c3"
-          }
-        },
-        {
-          "id": "generated.forgemod:eatinganimation:5.1.0@jar",
-          "name": "Eating Animation",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 294792,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/eatinganimation-1.20.1-5.1.0.jar",
-            "MD5": "fed01f18bc67d277e1ae9d4694d18659"
           }
         },
         {
@@ -785,56 +195,6 @@
           }
         },
         {
-          "id": "dev.emi.emi.platform:emi:1.1.16+1.20.1+forge@jar",
-          "name": "EMI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1004847,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/emi-1.1.16+1.20.1+forge.jar",
-            "MD5": "1b3ab194e1b7eb95e95be4008f48085e"
-          }
-        },
-        {
-          "id": "cofh.ensorcellation:ensorcellation:5.0.2@jar",
-          "name": "Ensorcellation",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 113193,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ensorcellation-1.20.1-5.0.2.24.jar",
-            "MD5": "17d64a3c7647494d92f8cf2259fa9331"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041071,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
-          }
-        },
-        {
-          "id": "de.cheaterpaul:fallingleaves:2.1.0@jar",
-          "name": "Falling Leaves",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 130363,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Fallingleaves-1.20.1-2.1.0.jar",
-            "MD5": "9abb855e91488602aca8ee1d95f3e392"
-          }
-        },
-        {
-          "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:9.0.0@jar",
-          "name": "Fantasy's Furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3202951,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/fantasyfurniture-1.20.1-9.0.0.jar",
-            "MD5": "0712007756c04d20100121c31510d346"
-          }
-        },
-        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -842,16 +202,6 @@
             "size": 2915349,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
             "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
-          }
-        },
-        {
-          "id": "umpaz.farmersrespite:farmersrespite:1.20.1-2.1@jar",
-          "name": "Farmer's Respite",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 537307,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/farmersrespite-1.20.1-2.1.2.jar",
-            "MD5": "13d46fc2bfb1e4f7176381a98b29eaf5"
           }
         },
         {
@@ -865,16 +215,6 @@
           }
         },
         {
-          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
-            "MD5": "f52f538207a4829d7060550092ce2383"
-          }
-        },
-        {
           "id": "com.lothrazar.library:flib:0.0.14@jar",
           "name": "Flib",
           "type": "ForgeMod",
@@ -882,146 +222,6 @@
             "size": 291395,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/flib-1.20.1-0.0.14.jar",
             "MD5": "7bf25b7d60e685fb4f858b82923ca44e"
-          }
-        },
-        {
-          "id": "dev.xkmc.fruitsdelight.init:fruitsdelight:1.0.12@jar",
-          "name": "Fruits Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1844024,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/fruitsdelight-1.0.12.jar",
-            "MD5": "b9773daa9c62bc9a8f2d59d0de0f00c8"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftblibrary:2001.2.4@jar",
-          "name": "FTB Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 791152,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
-            "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
-          }
-        },
-        {
-          "id": "dev.ftb.mods:ftbultimine:2001.1.5@jar",
-          "name": "FTB Ultimine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 108517,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.5.jar",
-            "MD5": "ca47e1768157b1df2fb475799784d4be"
-          }
-        },
-        {
-          "id": "com.supermartijn642:fusion:1.1.1@jar",
-          "name": "Fusion",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 221813,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/fusion-1.1.1-forge-mc1.20.1.jar",
-            "MD5": "c8cc6729366722da02ea57fd87d7275c"
-          }
-        },
-        {
-          "id": "software.bernie.example:geckolib:4.4.9@jar",
-          "name": "GeckoLib 4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 991552,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
-            "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
-          }
-        },
-        {
-          "id": "elocindev.geckoanimfix:geckoanimfix:1.0.0@jar",
-          "name": "GeckoLibIrisCompat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6239,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/GeckoLibOculusCompat-Forge-1.0.1.jar",
-            "MD5": "4dd6b749ec2ca69a208a15091530825b"
-          }
-        },
-        {
-          "id": "bl4ckscor3.mod:globalxp:1.12@jar",
-          "name": "Global XP",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 42730,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/globalxp-forge-1.20.1-1.12.jar",
-            "MD5": "a4997ba528ec8e4ad2a1a47067473716"
-          }
-        },
-        {
-          "id": "generated.forgemod:gml:4.0.9-all@jar",
-          "name": "Gml",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11124968,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/gml-4.0.9-all.jar",
-            "MD5": "09db2f78b7cb67b27dd2b58989bc4947"
-          }
-        },
-        {
-          "id": "net.joefoxe:hexerei:1.20.1-0.4.2@jar",
-          "name": "Hexerei",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11419163,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/hexerei-0.4.2.1.jar",
-            "MD5": "89d5872140e23e2ffd6facbc48292327"
-          }
-        },
-        {
-          "id": "net.count:honeydelight:1.0.2.1-1.20.1@jar",
-          "name": "Honey Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 17195,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/honeydelight-1.0.2.1-1.20.1.jar",
-            "MD5": "f19187817ffb66c7ef0c6af8b7be9357"
-          }
-        },
-        {
-          "id": "net.raphimc:immediatelyfast:1.3.0+1.20.4@jar",
-          "name": "ImmediatelyFast",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 456382,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.3.0+1.20.4.jar",
-            "MD5": "7bfe7ad140ac460bc6128ee3e813a40e"
-          }
-        },
-        {
-          "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
-          "name": "Immersive Paintings",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4841253,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
-            "MD5": "e010b70ceecf34f91f223b8981f50f40"
-          }
-        },
-        {
-          "id": "com.natamus:infinitetrading:4.5@jar",
-          "name": "Infinite Trading",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 27880,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/infinitetrading-1.20.1-4.5.jar",
-            "MD5": "90e842d276fe2b6eac669ef24d51e4ff"
-          }
-        },
-        {
-          "id": "com.natamus:infinitetrading:4.5@jar",
-          "name": "Infinite Trading",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 27880,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/infinitetrading-1.20.1-4.5(2).jar",
-            "MD5": "90e842d276fe2b6eac669ef24d51e4ff"
           }
         },
         {
@@ -1045,16 +245,6 @@
           }
         },
         {
-          "id": "github.pitbox46:itemblacklist:1.20.1-1.0.0f@jar",
-          "name": "Item Blacklist",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25890,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/itemblacklist-1.20.1-1.0.0f.jar",
-            "MD5": "c2f3c7a854d992dce31ebdf98eaf5297"
-          }
-        },
-        {
           "id": "daripher.itemproduction:itemproductionlib:1.0.2a@jar",
           "name": "Item Production Lib",
           "type": "ForgeMod",
@@ -1062,36 +252,6 @@
             "size": 171785,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/ItemProductionLib-1.20.1-1.0.2a-all.jar",
             "MD5": "e4cb83cd8b61bf181d55ea1540a73a1c"
-          }
-        },
-        {
-          "id": "snownee.jade:jade:11.11.1+forge@jar",
-          "name": "Jade",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 547726,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Jade-1.20.1-forge-11.11.1.jar",
-            "MD5": "fafa657e924a26031c174e7ab1484c8e"
-          }
-        },
-        {
-          "id": "com.unrealdinnerbone:javd:5.0.1+mc1.20.1@jar",
-          "name": "Just Another Void Dimension",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 56478,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/JAVD-Forge-5.0.1+mc1.20.1.jar",
-            "MD5": "b70f21cb87911343ecad2969e3347865"
-          }
-        },
-        {
-          "id": "forge.com.lx862.jcm.entrypoint:jsblock:2.0.0-beta-4+1.20.1@jar",
-          "name": "Joban Client Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9118558,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/JCM-2.0.0-beta-4+1.20.1.jar",
-            "MD5": "625116d1eac7b4cbd4bc9e370adddd3f"
           }
         },
         {
@@ -1115,126 +275,6 @@
           }
         },
         {
-          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
-          "name": "Kotlinforforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7193768,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
-            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
-          }
-        },
-        {
-          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.3@jar",
-          "name": "Krypton Reforged",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 206758,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/KryptonReforged-0.2.3.jar",
-            "MD5": "5b6b46d86a9a3858c766182a4cb9c3f1"
-          }
-        },
-        {
-          "id": "com.github.l_ender:cataclysm:2.16@jar",
-          "name": "Cataclysm Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 71564686,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/L_Enders_Cataclysm-2.16%20-%201.20.1.jar",
-            "MD5": "2d32f2002f79befb60e7b669324a3008"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2archery.init:l2archery:2.4.15@jar",
-          "name": "L2 Archery",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 498399,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2archery-2.4.15.jar",
-            "MD5": "16f0c5cde4b1073c0c7bc4ba7552be1d"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2artifacts.init:l2artifacts:2.4.27@jar",
-          "name": "L2 Artifacts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1730075,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2artifacts-2.4.27.jar",
-            "MD5": "fbd05e45e06dab316758b1bf718ab2bd"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2backpack.init:l2backpack:2.4.28@jar",
-          "name": "L2 Backpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 860812,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2backpack-2.4.28.jar",
-            "MD5": "6405179cc5aba86c84272b56263c9b42"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2complements.init:l2complements:2.4.41@jar",
-          "name": "L2 Complements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1122774,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2complements-2.4.41.jar",
-            "MD5": "cfc0d36e3f581c19f143d7a34e818074"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2hostility.init:l2hostility:2.4.33@jar",
-          "name": "L2 Hostility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1189152,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2hostility-2.4.33.jar",
-            "MD5": "6c7487972dbcae975234a5e8df78451b"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2library.init:l2library:2.4.29@jar",
-          "name": "L2 Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 911854,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2library-2.4.29.jar",
-            "MD5": "4ad4bee3e38e01354ff4b494a63cae64"
-          }
-        },
-        {
-          "id": "dev.xkmc.l2weaponry.init:l2weaponry:2.4.34@jar",
-          "name": "L2 Weaponry",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2106380,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/l2weaponry-2.4.34.jar",
-            "MD5": "bca7ca5df1f7ff3d13f7f7c5f4f29cf1"
-          }
-        },
-        {
-          "id": "net.mcreator.landkcitystreets:landk_city_streets:1.0.0@jar",
-          "name": "Landk city streets",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 17410277,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Landk_city_street_v1.4_1.20.1_x256_3d_rx.jar",
-            "MD5": "1e70e5494b435518c392648c425fd9bf"
-          }
-        },
-        {
-          "id": "net.mcreator.landkblocktiles:landk_block_tiles:1.0.0@jar",
-          "name": "LandK_Block_Tiles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 42603336,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/LandK_Tiles_v1.2_1.20.1-x256-3d-rx.jar",
-            "MD5": "9c9abac2c794f18b9769aa9fc1adf5bb"
-          }
-        },
-        {
           "id": "net.foundwiz:largemeals:1.20.1-1.0@jar",
           "name": "Large Meals",
           "type": "ForgeMod",
@@ -1242,96 +282,6 @@
             "size": 54290,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/largemeals-1.20.1-2.0.jar",
             "MD5": "c3974411ffdd70f292ff3eaa8e7bd157"
-          }
-        },
-        {
-          "id": "de.cristelknight:doapi:1.2.15@jar",
-          "name": "[Let's Do] API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1440591,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
-            "MD5": "82d392dd5ef6064d8988592a35b3b403"
-          }
-        },
-        {
-          "id": "net.satisfy:bakery:1.1.15@jar",
-          "name": "[Let's Do] Bakery",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1539376,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/letsdo-bakery-forge-1.1.15.jar",
-            "MD5": "c1ea271f8ea61df80a37010e32d9e08f"
-          }
-        },
-        {
-          "id": "satisfy.beachparty:beachparty:1.1.5@jar",
-          "name": "[Let's Do] Beachparty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3549757,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/letsdo-beachparty-forge-1.1.5.jar",
-            "MD5": "7da98a50f01ec43b15c602c423503c65"
-          }
-        },
-        {
-          "id": "satisfy.herbalbrews:herbalbrews:1.0.8@jar",
-          "name": "[Let's Do] HerbalBrews",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 676321,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/letsdo-herbalbrews-forge-1.0.8.jar",
-            "MD5": "9db5f3c2495e78de09c269b7199d3f68"
-          }
-        },
-        {
-          "id": "net.satisfy:vinery:1.4.28@jar",
-          "name": "[Let's Do] Vinery",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3295849,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.28.jar",
-            "MD5": "b5a34300fcf20892e2cbf3e141cd4915"
-          }
-        },
-        {
-          "id": "io.github.lightman314:lightmanscurrency:1.20.1-2.2.3.5b@jar",
-          "name": "Lightman's Currency",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6584841,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/lightmanscurrency-1.20.1-2.2.3.5b.jar",
-            "MD5": "6f5858e37160eb6072b959a65e0c8a51"
-          }
-        },
-        {
-          "id": "com.github.l_ender:lionfishapi:1.9@jar",
-          "name": "LionfishAPI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 152910,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/lionfishapi-1.9.jar",
-            "MD5": "e814e31ce3696e38e55dd39c6556d6f7"
-          }
-        },
-        {
-          "id": "noobanidus.mods:lootr:0.7.34.87@jar",
-          "name": "Lootr",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 347913,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/lootr-forge-1.20-0.7.34.89.jar",
-            "MD5": "268721ef907b1d9f9a42e36d370c6c90"
-          }
-        },
-        {
-          "id": "lillouarts.magicvibedecorations:magic_vibe_decorations:1.0.4@jar",
-          "name": "Magic Vibe Decorations",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1855691,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/magic_vibe_decorations-1.0.4-forge-1.20.1.jar",
-            "MD5": "e284f52c4622c32efc5f6a25c5bfa932"
           }
         },
         {
@@ -1355,186 +305,6 @@
           }
         },
         {
-          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.1@jar",
-          "name": "Macaw's Doors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1202279,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
-            "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
-          }
-        },
-        {
-          "id": "com.mcwfences.kikoz:mcwfences:1.1.2@jar",
-          "name": "Macaw's Fences and Walls",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 522886,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
-            "MD5": "729a8ce749bb6deff288ea1791ff9602"
-          }
-        },
-        {
-          "id": "com.mcwstairs.kikoz:mcwstairs:1.0.0@jar",
-          "name": "Macaw's Stairs and Balconies",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 550919,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mcw-stairs-1.0.0-1.20.1forge.jar",
-            "MD5": "b06da901c7f278243b943c93abcc31eb"
-          }
-        },
-        {
-          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.3@jar",
-          "name": "Macaw's Trapdoors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 674687,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
-            "MD5": "3caced7ea133ba8c51bfc309ba91df82"
-          }
-        },
-        {
-          "id": "com.mcwwindows.kikoz:mcwwindows:2.3.0@jar",
-          "name": "Macaw's Windows",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1309586,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
-            "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
-          }
-        },
-        {
-          "id": "net.mcreator.moadecorscience:moa_decor_science:1.20.1@jar",
-          "name": "MOA DECOR: SCIENCE",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1040771,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MOAdecor%20SCIENCE%201.20.1.jar",
-            "MD5": "b547bafe316aeac0ad11ad91850931d5"
-          }
-        },
-        {
-          "id": "net.mcreator.moadecortoys:moa_decor_toys:1.20.1@jar",
-          "name": "MOA DECOR: TOYS",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119976,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
-            "MD5": "a491d0259da96000cf70d0b0c22f6d87"
-          }
-        },
-        {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.19.4+mc1.20.1@jar",
-          "name": "ModernFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 778504,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/modernfix-forge-5.19.4+mc1.20.1.jar",
-            "MD5": "359e779ab4f91fa48f1b1aab0dfb0821"
-          }
-        },
-        {
-          "id": "net.mcreator.mofusbetterend:mofus_better_end_:1.0.0@jar",
-          "name": "Mofu's better end ",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8289366,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mofus_better_end_-0.5.1-forge-1.20.1.jar",
-            "MD5": "ab395484b042cdbd596a213fbcb1318c"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.18@jar",
-          "name": "Moonlight Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1190062,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/moonlight-1.20-2.13.18-forge.jar",
-            "MD5": "48d1247a099956b5078c52c05fe3c8bf"
-          }
-        },
-        {
-          "id": "com.axperty:moredelight:24.09.27-1.20-forge@jar",
-          "name": "More Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 137905,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/moredelight-24.09.27-1.20-forge.jar",
-            "MD5": "b9bff604add990c27f0d95f1fcf50e0d"
-          }
-        },
-        {
-          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
-          "name": "Mouse Tweaks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76237,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
-          }
-        },
-        {
-          "id": "top.mcmtr.init:msd:1.3.11@jar",
-          "name": "MTR Station Decoration Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7990954,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MSD-forge-1.20.1-4.0.0-beta-11-1.3.11.jar",
-            "MD5": "8fa411fffd6df8f6cdfc6d7a2b2da120"
-          }
-        },
-        {
-          "id": "org.mtr.init:mtr:4.0.0-beta-11@jar",
-          "name": "Minecraft Transit Railway",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 78654759,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/MTR-forge-4.0.0-beta-11+1.20.1.jar",
-            "MD5": "da2e0848ae641643b3af1c687479ed81"
-          }
-        },
-        {
-          "id": "cn.mcmod_mmf.mmlib:mysterious_mountain_lib:1.5.17-1.20.1@jar",
-          "name": "Mysterious Mountain Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 304359,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mysterious_mountain_lib-1.5.17-1.20.1.jar",
-            "MD5": "df197f8204a737769a8cb319bed0d4bc"
-          }
-        },
-        {
-          "id": "generated.forgemod:mythicmetals:0.19.9+1.20.1@jar",
-          "name": "Mythicmetals",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3214377,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/mythicmetals-0.19.9+1.20.1.jar",
-            "MD5": "c1ce90907d38928b34fb4396d0bdee0d"
-          }
-        },
-        {
-          "id": "com.bawnorton.neruina.platform:neruina:2.1.2@jar",
-          "name": "Neruina",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3086403,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Neruina-2.1.2-forge+1.20.1.jar",
-            "MD5": "a3401b374c420b2fa71ba47fc0a10ceb"
-          }
-        },
-        {
-          "id": "io.github.steveplays28:noisium:2.3.0+mc1.20-1.20.1@jar",
-          "name": "Noisium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 218152,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-            "MD5": "3a8e9a24408c991b3fb97685884f2cce"
-          }
-        },
-        {
           "id": "top.leonx:irisflw:1.1.2@jar",
           "name": "Oculus Flywheel Compat",
           "type": "ForgeMod",
@@ -1552,26 +322,6 @@
             "size": 2831148,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          }
-        },
-        {
-          "id": "generated.forgemod:owo:lib-0.11.2+1.20@jar",
-          "name": "Owo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 905421,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/owo-lib-0.11.2+1.20.jar",
-            "MD5": "9150f588f732ae38c0320a17fa340626"
-          }
-        },
-        {
-          "id": "salted.packedup:packedup:0.5.2-beta@jar",
-          "name": "Packed Up",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 882133,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/packedup-0.5.2-beta.jar",
-            "MD5": "f5d8793a2accba6cfd3d17244eb43e2e"
           }
         },
         {
@@ -1595,56 +345,6 @@
           }
         },
         {
-          "id": "vazkii.patchouli:patchouli:1.20.1-84-FORGE@jar",
-          "name": "Patchouli",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 642506,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
-            "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
-          }
-        },
-        {
-          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
-          "name": "Pehkui",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 671605,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
-            "MD5": "95bdd5558d34044f54aab0ce292e679b"
-          }
-        },
-        {
-          "id": "de.maxhenkel:pipez:1.20.1-1.2.16@jar",
-          "name": "Pipez",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 427648,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/pipez-forge-1.20.1-1.2.16.jar",
-            "MD5": "611be5015dd935a3a84b1269e25f8946"
-          }
-        },
-        {
-          "id": "com.tiviacz:pizzadelight:1.0.0@jar",
-          "name": "Pizza Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 283117,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/pizzadelight-1.20.1-1.0.0.jar",
-            "MD5": "90238037995b1536ab6edbbb28eab3dc"
-          }
-        },
-        {
-          "id": "dev.shadowsoffire:placebo:8.6.2@jar",
-          "name": "Placebo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 285351,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Placebo-1.20.1-8.6.2.jar",
-            "MD5": "0b7358e758257452184a3a8f82f60abe"
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1652,36 +352,6 @@
             "size": 181437,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
-          }
-        },
-        {
-          "id": "net.mcreator.pollypets:polly_pets:1.0.0@jar",
-          "name": "Polly Pets",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1435136,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/polly_pets-1.2.1.jar",
-            "MD5": "3b79719f6f379a5a9aad5e1166491868"
-          }
-        },
-        {
-          "id": "com.illusivesoulworks:polymorph:0.49.5+1.20.1@jar",
-          "name": "Polymorph",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 298759,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/polymorph-forge-0.49.5+1.20.1.jar",
-            "MD5": "50b704c0f2c18db908ce99d628889a9a"
-          }
-        },
-        {
-          "id": "org.violetmoon.quark.base:quark:4.0-460@jar",
-          "name": "Quark",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14818038,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Quark-4.0-460.jar",
-            "MD5": "91c53aef2d48db703977309aea72c231"
           }
         },
         {
@@ -1695,46 +365,6 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:ribbits:1.20.1-Forge-3.0.0@jar",
-          "name": "Ribbits",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2084525,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.0.jar",
-            "MD5": "33588d3bd9a078640180b66aad9b630a"
-          }
-        },
-        {
-          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.3+mc1.20.1-build.121@jar",
-          "name": "Embeddium Extra",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 544113,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
-            "MD5": "f61cc3ea7c32ce7839467caf0ac0f113"
-          }
-        },
-        {
-          "id": "net.veroxuniverse:samurai_dynasty:0.0.48-1.20.1-neo@jar",
-          "name": "Samurai Dynasty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2365860,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/samurai_dynasty-0.0.48-1.20.1-neo.jar",
-            "MD5": "96364083486d2b9a3aff1a050f902ca9"
-          }
-        },
-        {
-          "id": "com.abdelaziz:saturn:0.1.3@jar",
-          "name": "Saturn",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 92319,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/saturn-mc1.20.1-0.1.3.jar",
-            "MD5": "56a9a1cc126425b04acc5f8bd7ed67f1"
-          }
-        },
-        {
           "id": "com.lothrazar:storagenetwork:1.11.3@jar",
           "name": "Simple Storage Network",
           "type": "ForgeMod",
@@ -1742,16 +372,6 @@
             "size": 498165,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/SimpleStorageNetwork-1.20.1-1.11.3.jar",
             "MD5": "769b7ed0c411771c565e9fa822cae119"
-          }
-        },
-        {
-          "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
-          "name": "Simply Swords",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15202091,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
-            "MD5": "da155dc9ccd825f2a824532488675d85"
           }
         },
         {
@@ -1765,136 +385,6 @@
           }
         },
         {
-          "id": "com.abdelaziz:smoothboot:0.0.4@jar",
-          "name": "Smooth Boot (Reloaded)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 41044,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-            "MD5": "c8cd5ae14d99796fd92c95a353e96211"
-          }
-        },
-        {
-          "id": "com.smoothchunk:smoothchunk:1.20.1-3.6@jar",
-          "name": "Smoothchunk mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12011,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/smoothchunk-1.20.1-3.6.jar",
-            "MD5": "b38a463e858e0b8c0afdf322917b4426"
-          }
-        },
-        {
-          "id": "com.cazsius:solcarrot:1.15.1@jar",
-          "name": "Spice of Life: Carrot Edition",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 104185,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/solcarrot-1.20.1-1.15.1.jar",
-            "MD5": "3b143c8d252b51221b5e85724c00171c"
-          }
-        },
-        {
-          "id": "someassemblyrequired:some_assembly_required:1.20.1-4.0.1@jar",
-          "name": "Some Assembly Required",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 377068,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/some-assembly-required-1.20.1-4.0.1.jar",
-            "MD5": "39a5dd13dc38092f8a27c8a502090916"
-          }
-        },
-        {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.11.1115@jar",
-          "name": "Sophisticated Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 856299,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.11.1115.jar",
-            "MD5": "05794ff4ec45fb90c5f55b22131af52b"
-          }
-        },
-        {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.34.718@jar",
-          "name": "Sophisticated Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1083132,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.34.718.jar",
-            "MD5": "84687c259490d070119b4ed37d66e0b9"
-          }
-        },
-        {
-          "id": "net.p3pp3rf1y:sophisticatedstorage:0.10.45.912@jar",
-          "name": "Sophisticated Storage",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1362602,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-0.10.45.912.jar",
-            "MD5": "7cf10321f3d986664658a5fc03948136"
-          }
-        },
-        {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 196564,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
-            "MD5": "e819065ae0a3d034c7804e2b2e16a45f"
-          }
-        },
-        {
-          "id": "com.railwayteam:railways:1.6.7+forge-mc1.20.1@jar",
-          "name": "Create: Steam 'n' Rails",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9997801,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Steam_Rails-1.6.7+forge-mc1.20.1.jar",
-            "MD5": "32a83dba6630165e1415f9e78d4aaf2e"
-          }
-        },
-        {
-          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
-          "name": "SuperMartijn642's Config Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 206584,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-            "MD5": "cbece61946d4e059e90806c19dd66082"
-          }
-        },
-        {
-          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.17+a@jar",
-          "name": "SuperMartijn642's Core Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 515364,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
-            "MD5": "683673fc9002595a4a6b1668f33354cc"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:supplementaries:1.20-2.8.17@jar",
-          "name": "Supplementaries",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14531952,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/supplementaries-1.20-2.8.17.jar",
-            "MD5": "6bf283334d5c5e30384e2432a5155383"
-          }
-        },
-        {
-          "id": "andrews.swampier_swamps:swampier_swamps:1.20-4.0.0@jar",
-          "name": "Swampier Swamps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 716088,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/swampier_swamps-1.20-4.0.0.jar",
-            "MD5": "9c72939293f290665fb78a59ee39316b"
-          }
-        },
-        {
           "id": "com.sofodev:sworddisplay:1.20.1-1.0.0@jar",
           "name": "Sword Displays",
           "type": "ForgeMod",
@@ -1902,36 +392,6 @@
             "size": 208850,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/sworddisplay-1.20.1-1.0.0.jar",
             "MD5": "4cd34668e427ef5d4ab936f0c4a415f9"
-          }
-        },
-        {
-          "id": "tanukidecor:tanukidecor:20.1.1.0@jar",
-          "name": "Tanuki Decor",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3012590,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/tanukidecor-20.1.1.0.jar",
-            "MD5": "c9a7e2bd948850914d93ded1ebf4d617"
-          }
-        },
-        {
-          "id": "terrablender.core:terrablender:3.0.1.7@jar",
-          "name": "TerraBlender",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 107534,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
-            "MD5": "78abbc04e408fb61de6df9c968008c4b"
-          }
-        },
-        {
-          "id": "raccoonman.terrablenderfix:terrablenderfix:0.0.1@jar",
-          "name": "TerraBlenderFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15199,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/terrablenderfix-forge-1.20.1-0.0.1.jar",
-            "MD5": "6fbc55c23de1279379a7bac0ffb05398"
           }
         },
         {
@@ -1965,46 +425,6 @@
           }
         },
         {
-          "id": "net.xalcon:torchmaster:20.1.9@jar",
-          "name": "Torchmaster",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 119348,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
-            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
-          }
-        },
-        {
-          "id": "edn.stratodonut:trackwork:1.0.2c@jar",
-          "name": "Trackwork Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 456416,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/trackwork-1.20.1-1.0.2c.jar",
-            "MD5": "5ed74044a3b7553a79264fc20f6bb8e1"
-          }
-        },
-        {
-          "id": "com.supermartijn642:trashcans:1.0.18b@jar",
-          "name": "Trash Cans",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 158164,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/trashcans-1.0.18b-forge-mc1.20.jar",
-            "MD5": "96b30739859465a3a3f8d1d4a6c9d48c"
-          }
-        },
-        {
-          "id": "com.unrealdinnerbone:trenzalore:3.3.10@jar",
-          "name": "Trenzalore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 87138,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/trenzalore-forge-3.3.10+mc1.20.1-all.jar",
-            "MD5": "22c27754f35462ff174e36c372746e65"
-          }
-        },
-        {
           "id": "twilightforest:twilightforest:4.3.2508@jar",
           "name": "The Twilight Forest",
           "type": "ForgeMod",
@@ -2012,16 +432,6 @@
             "size": 23332091,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
-          }
-        },
-        {
-          "id": "codyhuh.unusualfishmod:unusualfishmod:1.1.5@jar",
-          "name": "Unusual Fish Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5046307,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/unusualfishmod-1.1.5.jar",
-            "MD5": "8fcf391baa75c62142de7d36694d7faa"
           }
         },
         {
@@ -2035,36 +445,6 @@
           }
         },
         {
-          "id": "org.valkyrienskies.mod:valkyrienskies:2.3.0-beta.5@jar",
-          "name": "Valkyrien Skies 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13774983,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/valkyrienskies-120-2.3.0-beta.5.jar",
-            "MD5": "edbddf585b74a4c4e505bf8273c69ebe"
-          }
-        },
-        {
-          "id": "net.mehdinoui:veggiesdelight:1.4.2@jar",
-          "name": "Veggies Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 186705,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/veggiesdelight-1.4.2.jar",
-            "MD5": "56ca0c8c4b2d2e8ba6e761450d83dbbf"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.17@jar",
-          "name": "Simple Voice Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7707727,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.17.jar",
-            "MD5": "215aa011aca6f62c7c284e3ff6d04366"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.25@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -2075,26 +455,6 @@
           }
         },
         {
-          "id": "com.corosus.watut.loader:watut:1.20.1-1.1.3@jar",
-          "name": "What Are They Up To",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 352474,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/watut-forge-1.20.1-1.1.3.jar",
-            "MD5": "d3014c889b0c54e1a7f049fa2d54787b"
-          }
-        },
-        {
-          "id": "com.minecraftserverzone.weaponmaster:weaponmaster_ydm:4.2.3@jar",
-          "name": "YDM's Weapon Master",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 283977,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
-            "MD5": "d8cbfa36266a62b13e087e6ed4fc94d5"
-          }
-        },
-        {
           "id": "net.montoyo.wd:webdisplays:2.0.1-1.20.1@jar",
           "name": "WebDisplays",
           "type": "ForgeMod",
@@ -2102,56 +462,6 @@
             "size": 811968,
             "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/webdisplays-2.0.2-1.20.1.jar",
             "MD5": "e10830a26736c48d5726755a81f20429"
-          }
-        },
-        {
-          "id": "xerca.xercamusic:xercamusic:1.20.1-1.0.2@jar",
-          "name": "Music Maker Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7714018,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/xercamusic-1.20.1-1.0.2.jar",
-            "MD5": "f2ceede066ca6371cb44f61206dc1904"
-          }
-        },
-        {
-          "id": "tfar.xlpackets:xlpackets:1.18.2-2.1@jar",
-          "name": "XL Packets",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4786,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/xlpackets-1.18.2-2.1.jar",
-            "MD5": "ee7f9b5dec68637fb20ba3849b2bff10"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
-          "name": "YUNG's API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 370524,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
-            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
-          }
-        },
-        {
-          "id": "com.yuushya:yuushya:2.2.2@jar",
-          "name": "Yuushya",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15725646,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/yuushya-1.20.1-forge-2.2.2.jar",
-            "MD5": "f4b004078e3f6ea9dd5f2435ebcb4cb3"
-          }
-        },
-        {
-          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-24@jar",
-          "name": "Zeta",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 991472,
-            "url": "https://raw.githubusercontent.com/TokiwaHaruto/TokiwaModPacks/master/servers/TokiwaServer-1.20.1/forgemods/required/Zeta-1.0-24.jar",
-            "MD5": "5adf9331772be4b4eed0aca79f173ca6"
           }
         },
         {
